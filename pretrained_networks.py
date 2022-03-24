@@ -6,7 +6,7 @@
 
 """List of pre-trained StyleGAN2 networks located on Google Drive."""
 
-import pickle
+import pickle5 as pickle
 import dnnlib
 import dnnlib.tflib as tflib
 
